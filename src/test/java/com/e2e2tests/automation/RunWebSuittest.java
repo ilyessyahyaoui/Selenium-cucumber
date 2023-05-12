@@ -1,4 +1,4 @@
-package com2e2test.automation;
+package com.e2e2tests.automation;
 
 public class RunWebSuittest {
 
